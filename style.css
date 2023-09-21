@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.number-input {
+  background-color: #101010;
+  border: 1px solid gray;
+  border-radius: 4px;
+  color: #ccc;
+  font-weight: 800;
+}
+
+.wrapper {
+  position: absolute;
+  padding: 8px;
+  border-radius: 8px;
+  top: 50%;
+  right: 1%;
+}
